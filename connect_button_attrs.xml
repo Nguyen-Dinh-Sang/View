@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConnectButtonView">
+        <attr name="connectBackground" format="string"/>
+        <attr name="connectingBackground" format="string"/>
+        <attr name="connectedBackground" format="string"/>
+        <attr name="lottie_speed" format="float"/>
+    </declare-styleable>
+</resources>
